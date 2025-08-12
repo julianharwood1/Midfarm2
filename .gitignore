@@ -1,0 +1,7 @@
+__pycache__/
+dist/
+build/
+*.spec
+out/
+*.pyc
+savegame.json
